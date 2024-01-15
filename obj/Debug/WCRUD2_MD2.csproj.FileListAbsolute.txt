@@ -1,0 +1,14 @@
+C:\Users\maikd\source\repos\WCRUD2_MD2\bin\Debug\WCRUD2_MD2.exe.config
+C:\Users\maikd\source\repos\WCRUD2_MD2\bin\Debug\WCRUD2_MD2.exe
+C:\Users\maikd\source\repos\WCRUD2_MD2\bin\Debug\WCRUD2_MD2.pdb
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.csproj.AssemblyReference.cache
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.Properties.Resources.resources
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.csproj.GenerateResource.cache
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.csproj.CoreCompileInputs.cache
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.exe
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.pdb
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.UI.Person.resources
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.UI.Principal.resources
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.UI.NewPerson.resources
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.UI.DeletePerson.resources
+C:\Users\maikd\source\repos\WCRUD2_MD2\obj\Debug\WCRUD2_MD2.UI.UpdatePerson.resources
